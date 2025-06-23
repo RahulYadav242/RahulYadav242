@@ -12,5 +12,4 @@ I'm a web developer currently learning full-stack development with Node.js, Expr
 
 ---
 
-📫 Reach me at: rahul@email.com  
 🛠️ Building: [vanGo-fullstack](https://github.com/16111026/vanGo-fullstack)
