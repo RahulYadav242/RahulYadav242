@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rahul! 👋
 
-<!--
-**RahulYadav242/RahulYadav242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer currently learning full-stack development with Node.js, Express, MongoDB, and React.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 Reach me at: rahul@email.com  
+🛠️ Building: [vanGo-fullstack](https://github.com/16111026/vanGo-fullstack)
