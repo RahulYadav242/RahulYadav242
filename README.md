@@ -7,21 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BlaBla](BlaBla)
+- 🔭 I’m currently working on advanced full-stack web apps with modern UI/UX design
 
-- 🌱 I’m currently learning **BlaBla**
+- 🌱 I’m currently learning system design, performance optimization, and scalable backend patterns
 
-- 👯 I’m looking to collaborate on [BlaBla](BlaBla)
+- 👯 I’m looking to collaborate on MERN stack projects, API integrations, and real-time apps
 
-- 🤝 I’m looking for help with [BlaBla](BlaBla)
+- 🤝 I’m looking for help with contributing to open-source full-stack projects
 
-- 👨‍💻 All of my projects are available at [BlaBla](BlaBla)
+- 👨‍💻 All of my projects are available at (https://github.com/RahulYadav242)
 
-- 💬 Ask me about **BlaBla**
+- 💬 Ask me about ** React.js, Express.js, Node.js, MongoDB,HTML,Javascript,CSS, and full-stack app architecture**
 
 - 📫 How to reach me **itsrahulyadav167@gmail.com**
 
-- 📄 Know about my experiences [balaal](balaal)
+📄 Know about my experience: I'm a full-stack developer skilled in:
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
