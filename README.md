@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **BlaBla**
 
-- 📫 How to reach me **BlaBla@gmail.com**
+- 📫 How to reach me **itsrahulyadav167@gmail.com**
 
 - 📄 Know about my experiences [balaal](balaal)
 
